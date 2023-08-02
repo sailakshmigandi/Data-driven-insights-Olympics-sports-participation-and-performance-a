@@ -1,2 +1,2 @@
-# Data-driven-insights-Olympics-sports-participation-and-performance-
+# Data-driven-insights-Olympics-sports-participation-and-performance
 Olympics sports 
